@@ -10,8 +10,8 @@ if len(sys.argv) == 3:
     mark5 = sys.argv[6]
     print("User provided input values:")
 else:
-    name = "Srujan"
-    rollno = "42"
+    name = "Nathaniel"
+    rollno = "006"
     mark1 = "35"
     mark2 = "35"
     mark3= "35"
